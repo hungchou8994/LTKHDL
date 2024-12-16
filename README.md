@@ -15,9 +15,20 @@ This project uses the knowledge acquired in the courses
 - **Data Science Programming**
 - **Data Visuallization**
 
+## 👉 Data Source
 The dataset we use is [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data). You can click the link to navigate to dataset source.
-Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. 
 About this dataset's information as columns names, columns meaning, you can look into my file notebooks, or simply look at dataset source
+
+
+## 👉 Objectives
+
+The main objectives of this project are:
+
+- Develop data visualization tools to help users easily understand and analyze datasets.
+- Utilize modern visualization techniques such as charts, graphs, and dashboards to illustrate trends and relationships in the data.
+- Apply data analysis techniques to extract valuable insights and patterns from the dataset.
+- Provide an intuitive and effective tool for data analysts, managers, and anyone interested in exploring data visually.
+
 
 ---
 
@@ -29,7 +40,7 @@ Here is the content translated into English:
 
 ---
 
-## Contents  
+## 👉 Contents  
 1. [Introduction](#introduction)  
     1.1. [Dataset Information](#information)  
     1.2. [Attribute Information](#attribute)  
@@ -52,7 +63,7 @@ Here is the content translated into English:
 6. [References](#references)  
 
 
-## References
+## 👉 References
 
 1. **Outlier Detection**  
    Naresh Bhat. [Outlier: The Silent Killer](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer)  
