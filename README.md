@@ -36,8 +36,6 @@ In this project, we perform data preprocessing, data visuallization attributes r
 ## 👉 Project Management
 Here is Project Mangement of our team: [Project Mangement](https://docs.google.com/spreadsheets/d/1I-EPhQPPgNzJQzv90jsBVLGlodz6SkR9pmvKLbxaNCg/edit?usp=sharing)
 
-Here is the content translated into English:
-
 ---
 
 ## 👉 Contents  
